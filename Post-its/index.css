@@ -1,0 +1,42 @@
+body{
+    background-color: green;
+    background-size: 200%;
+    background-position: center;
+    /*display: flex;*/
+}
+#pushit{
+    padding: 20px;
+    background-color: yellow;
+    border-color:sandybrown;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+#guardar{
+    padding: 20px;
+    background-color: yellow;
+    border-color:sandybrown;
+    position: absolute;
+    bottom: 0px;
+    right: 130px;
+}
+.window{
+    background-color: yellow;
+    position: absolute;
+    margin: 0 auto;
+}
+.window h3{
+    left: 40%;
+}
+.window *{
+    position: absolute;
+    left: 10px;
+}
+.contenido{
+    width: 90%;
+    height: 70%;
+    background-color: yellow;
+    border: hidden;
+    position: absolute;
+    top: 50px;
+}
